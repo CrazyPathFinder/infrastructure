@@ -7,4 +7,4 @@ images:
   newTag: latest
 resources:
 - cluster-operator.yml
-- rabbitmq/niyez-dev-rabbitmq
+- /niyez-dev-rabbitmq
